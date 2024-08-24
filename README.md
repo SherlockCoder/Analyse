@@ -9,4 +9,4 @@ Cours et exercices corrigés.
 
 [MIT OpenCourseWare](https://www.youtube.com/watch?v=uoL4lQxfgwg&list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_&index=2)
 
-[UnivDoc : Informatique - cours, exercices, examens](https://www.univdocs.com/p/informatique.html)
+[UnivDocs : Informatique - cours, exercices, examens](https://www.univdocs.com/p/informatique.html)
